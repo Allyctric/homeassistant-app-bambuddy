@@ -3,7 +3,7 @@ name: Bambuddy
 version: "0.2.3.2"
 slug: bambuddy
 description: Bambuddy is a powerful, self-hosted print archive and management system for Bambu Lab 3D printers.
-url: "https://github.com/Kasperr169/homeassistant-app-bambuddy"
+url: "https://github.com/Allyctric/homeassistant-app-bambuddy"
 arch:
   - armhf
   - armv7
